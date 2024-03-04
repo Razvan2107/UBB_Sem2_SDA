@@ -1,0 +1,29 @@
+[2023-04-01 20:17:50] [info] Start Program:
+Path:"D:\ubb\anul1-sem2\Structuri de date si algoritmi\Laborator\lab1\x64\Debug\lab1.exe"
+Arguments:
+Working directory: "D:\ubb\anul1-sem2\Structuri de date si algoritmi\Laborator\lab1\"
+Modules: Selected: D:\ubb\anul1-sem2\Structuri de date si algoritmi\Laborator\lab1\x64\Debug\lab1.exe Excluded: 
+Sources: Selected: D:\ubb\anul1-sem2\Structuri de date si algoritmi\Laborator\lab1 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\Razvan Stratila\AppData\Local\Temp\ajl4hd3v.osv 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2023-04-01 20:17:50] [info] Module: D:\ubb\anul1-sem2\Structuri de date si algoritmi\Laborator\lab1\x64\Debug\lab1.exe is selected because it matches selected pattern: D:\ubb\anul1-sem2\Structuri de date si algoritmi\Laborator\lab1\x64\Debug\lab1.exe
+[2023-04-01 20:17:51] [error] 
+
+----------------------------------------------------
+*** Unhandled exception code: 3765269347: Exception C++
+----------------------------------------------------
+If your application was built with optimization enabled, make sure you use --optimized_build
+
+[2023-04-01 20:17:52] [info] ----------------------------------------------------
+[2023-04-01 20:17:52] [info] Coverage binary generated in file: C:\Users\Razvan Stratila\AppData\Local\Temp\ajl4hd3v.osv
+[2023-04-01 20:17:52] [info] ----------------------------------------------------
+[2023-04-01 20:17:52] [error] Your program stop with error code: -529697949
