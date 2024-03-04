@@ -1,0 +1,7 @@
+﻿  App.cpp
+  Colectie.cpp
+  Generating Code...
+D:\ubb\anul1-sem2\Structuri de date si algoritmi\Laborator\lab7\L7\Colectie.cpp(133): warning C4715: 'Colectie::cauta_rec': not all control paths return a value
+D:\ubb\anul1-sem2\Structuri de date si algoritmi\Laborator\lab7\L7\Colectie.cpp(184): warning C4715: 'Colectie::dim_rec': not all control paths return a value
+D:\ubb\anul1-sem2\Structuri de date si algoritmi\Laborator\lab7\L7\Colectie.cpp(166): warning C4715: 'Colectie::nr_rec': not all control paths return a value
+  L7.vcxproj -> D:\ubb\anul1-sem2\Structuri de date si algoritmi\Laborator\lab7\L7\x64\Debug\L7.exe
